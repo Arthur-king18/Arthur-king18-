@@ -1,8 +1,8 @@
-<div align="center">
+<hi align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+a+Python+Software+Engineer+;who+loves+:;1. Fast-API;2. Django;3. Web3;4. Next.js;and...;5. DOGGY&center=true&size=30"/>
-  
-  ###
-  ```python
+</hi>
+
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -21,7 +21,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-  
+<div align="center">  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Arthur-king18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-king18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
