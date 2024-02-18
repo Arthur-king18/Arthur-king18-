@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+a+Python+developer;who+loves+:;1. Fast-API;2. Django;3. Web3;4. Next.js;and...;5. DOGGY"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+a+Python+developer;who+loves+:;1. Fast-API;2. Django;3. Web3;4. Next.js;and...;5. DOGGY&center=true&size=30">
+</h1>
 
 ###
 
