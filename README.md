@@ -3,14 +3,14 @@
   
   ###
   
-  <div align="left">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Arthur-king18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-king18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   </div>
   
   ###
   
-  <div align="left">
+  <div align="center">
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     <img width="12" />
@@ -37,7 +37,7 @@
   
   ###
   
-  <div align="left">
+  <div align="center">
     <a href="https://t.me/artur_SAA" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
     </a>
