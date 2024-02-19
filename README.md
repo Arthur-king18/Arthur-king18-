@@ -3,6 +3,8 @@
 </div>
 
 ```python
+# ¯\_(ツ)_/¯
+
 class SoftwareEngineer:
 
     def __init__(self):
