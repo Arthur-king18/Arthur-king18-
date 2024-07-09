@@ -65,10 +65,10 @@ me.say_hi()
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
     <a href="https://www.upwork.com/freelancers/~01b42fac4e238d662a?mp_source=share" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
+      <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=49d00e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
     </a>
     <a href="https://wa.me/+79127589270" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Whats App&logo=whatsapp&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whats app logo"  />
+      <img src="https://img.shields.io/static/v1?message=Whats App&logo=whatsapp&label=&color=3db509&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whats app logo"  />
     </a>
   </div>
   
